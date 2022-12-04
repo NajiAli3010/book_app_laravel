@@ -1,0 +1,9 @@
+@import 'variables';
+
+.navbar{
+    background-color: $primary-color !important;
+}
+
+.navbar .navbar-brand,.nav-item .nav-link{
+    color: white;
+}
